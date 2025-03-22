@@ -41,7 +41,7 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+# docs/  # comentado para permitir publicação no GitHub Pagesdocs/
 
 # translation temp files
 po/*~
